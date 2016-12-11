@@ -1,0 +1,23 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      Ionic 2 Grid
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content>
+  <ion-grid>
+    <ion-row *ngFor="let i of rows">
+      <ion-col *ngFor="let category of categories | slice:(i*3):(i+1)*3" width-33>
+        <ion-card>
+          <img src="{{category.icon}}" />
+          <ion-card-content>
+            <ion-card-title>
+              {{category.name}}
+            </ion-card-title>            
+          </ion-card-content>
+        </ion-card>
+      </ion-col>
+    </ion-row>
+  </ion-grid>
+</ion-content>

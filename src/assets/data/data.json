@@ -1,0 +1,56 @@
+{
+    "results": [{
+            "id": "1",
+            "name": "Health & Wellness",
+            "icon": "http://placehold.it/300x300"
+        },
+        {
+            "id": "2",
+            "name": "Repair & Maintenance",
+            "icon": "http://placehold.it/300x300"
+            
+        },
+        {
+            "id": "3",
+            "name": "Weddings and Event",
+            "icon": "http://placehold.it/300x300"
+            
+        },
+        {
+            "id": "4",
+            "name": "Beauty Services",
+            "icon": "http://placehold.it/300x300"
+            
+        },
+        {
+            "id": "5",
+            "name": "Home Care and Design",
+            "icon": "http://placehold.it/300x300"
+            
+        },
+        {
+            "id": "6",
+            "name": "Academic Tutors",
+            "icon": "http://placehold.it/300x300"
+            
+        },
+        {
+            "id": "7",
+            "name": "Hobbies and Interest",
+            "icon": "http://placehold.it/300x300"
+           
+        },
+        {
+            "id": "8",
+            "name": "Personal Services",
+             "icon": "http://placehold.it/300x300"
+           
+        },
+        {
+            "id": "9",
+            "name": "Business Services",
+            "icon": "http://placehold.it/300x300"
+           
+        }
+    ]
+}
